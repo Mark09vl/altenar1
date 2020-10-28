@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "altenar1", "altenar1\altenar1.csproj", "{0261787D-1E1B-42C7-AEEE-2702BD1155A1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0261787D-1E1B-42C7-AEEE-2702BD1155A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0261787D-1E1B-42C7-AEEE-2702BD1155A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0261787D-1E1B-42C7-AEEE-2702BD1155A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0261787D-1E1B-42C7-AEEE-2702BD1155A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8E240B48-3DB8-41CB-BFAC-DBC5BB0F4640}
+	EndGlobalSection
+EndGlobal
